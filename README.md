@@ -2,7 +2,8 @@
 Dokumentasi, Pengerjaan Capstone
 
 #Team Challenge
-https://www.linkedin.com/posts/ngurah-agung-7a3231279_lifeatbangkit-bangkitelevatorpitch-bangkitacademy-activity-7140358560395214849-mgu6?utm_source=share&utm_medium=member_desktop
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7140355662244380674" height="1535" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 #Demo Applicatin
 
