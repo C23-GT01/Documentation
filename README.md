@@ -3,7 +3,10 @@ Dokumentasi, Pengerjaan Capstone
 
 #Team Challenge
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7140355662244380674" height="1535" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+[![Bangkit Team Challenge](https://drive.google.com/uc?export=download&id=1-aOHmBIT719zLVhVxhOHTCMDNA2GdpTp)](https://drive.google.com/uc?export=download&id=1-aOHmBIT719zLVhVxhOHTCMDNA2GdpTp)
+
+
+
 
 #Demo Applicatin
 
