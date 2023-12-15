@@ -1,5 +1,5 @@
 # Documentation
-Dokumentasi, Pengerjaan Capstone
+Documentation Of Capstone Company Whit AMATI Indonesia
 
 # Team Challenge
 ![Screenshot (1224)](https://github.com/C23-GT01/Documentation/assets/127122571/e3a7f2bd-84ca-4093-9ef4-ff52959a38bb)
